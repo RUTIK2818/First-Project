@@ -7,3 +7,9 @@ h1{
     width: auto;
     background-color: antiquewhite;
 }
+
+p{
+    font-family: sans-serif;
+    background-color: aqua;
+    color: black;
+}
